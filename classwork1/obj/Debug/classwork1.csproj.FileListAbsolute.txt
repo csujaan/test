@@ -1,0 +1,7 @@
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\bin\Debug\classwork1.exe.config
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\bin\Debug\classwork1.exe
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\bin\Debug\classwork1.pdb
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\obj\Debug\classwork1.csproj.AssemblyReference.cache
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\obj\Debug\classwork1.csproj.CoreCompileInputs.cache
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\obj\Debug\classwork1.exe
+C:\Users\sujaa\OneDrive\Desktop\test\classwork1\obj\Debug\classwork1.pdb
