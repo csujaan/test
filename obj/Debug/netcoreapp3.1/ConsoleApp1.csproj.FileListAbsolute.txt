@@ -12,3 +12,17 @@ C:\Users\sujaa\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.cspr
 C:\Users\sujaa\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\sujaa\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\sujaa\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\sujaa\OneDrive\Desktop\test\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\sujaa\OneDrive\Desktop\test\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
